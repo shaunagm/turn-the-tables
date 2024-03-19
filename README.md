@@ -43,17 +43,24 @@ If you'd like help creating a resource, would like to bring Turn the Tables to a
 
 ### Organizations Supporting Tech Workers
 
-* [Collective Actions in Tech](https://collectiveaction.tech/)
-* [Coworker](https://home.coworker.org/)
+#### Tech-Specific
+
 * [Tech Workers Coalition](https://techworkerscoalition.org/)
+* [Collective Actions in Tech](https://collectiveaction.tech/)
 * [Game Workers Unite!](https://www.gameworkersunite.org/)
+
+#### General Orgs 
+
+* [Coworker](https://home.coworker.org/)
 * [Labor Notes](https://www.labornotes.org/)
+* [Emergency Workplace Organizing (EWOC)](https://workerorganizing.org/)
+* [Organizing for Power](https://www.rosalux.de/en/o4p)
 
 ### Unions Organizing Tech Workers
 
 * [Communication Workers for America (CWA)](https://cwa-union.org/) ([C.O.D.E. Initiative](https://www.code-cwa.org/))
 * [United Steel Workers (USW)](https://www.usw.org/) ([Federation of Tech Workers program](https://www.federationoftechworkers.org/))
-* [Office and Professional Employees International Union (OPEIU)](https://www.opeiu.org/)
+* [Office and Professional Employees International Union (OPEIU)](https://www.opeiu.org/) ([Tech Workers Local Union 1010](https://www.techworkersunion-1010.org/))
 
 ### Labor Organizing by Tech Users
 
@@ -76,6 +83,11 @@ If you'd like help creating a resource, would like to bring Turn the Tables to a
 * [Glitch union](https://techcrunch.com/2021/03/02/following-unionization-glitch-signs-collective-bargaining-agreement/) (organized with CODE-CWA)
 * [Blue State Digital union](https://www.campaignsandelections.com/campaign-insider/employees-at-democratic-firm-blue-state-unionized-by-code-cwa) (organized with CODE-CWA)
 * [Alphabet Workers Union](https://alphabetworkersunion.org/) (organized with CODE-CWA)
+* [Nava United](https://www.navaunited.org/)
+* [New York Times Tech Guild](https://nytimesguild.org/tech/)
+* [Code for America Workers United](https://cfaworkersunited.com/)
+* [ActBlue Tech Workers Union](https://abtwu.org/)
+* [IAM Tempus AI Workers](https://www.goiam.org/news/tempus-ai-workers-in-chicago-vote-to-join-iam-union/)
 * [Googlers for Climate Action](https://twitter.com/ClimateGooglers)
 * [Google Walkout for Real Change](https://twitter.com/GoogleWalkout)
 * [Googlers for Human Rights](https://twitter.com/EthicalGooglers)
