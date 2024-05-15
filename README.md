@@ -27,9 +27,29 @@ If you'd like help creating a resource, would like to bring Turn the Tables to a
 * [You Deserve a Tech Union](https://abookapart.com/products/you-deserve-a-tech-union) by Ethan Marcotte
 * [Team Building: A Memoir about Family and the Fight for Workers' Rights](https://beltpublishing.com/products/team-building-inside-the-unionization-at-googles-pittsburgh-office) by Ben Gwin 
 
-### Zines
+### Zines, Pamphlets, and other printable materials
 
-* [The Rise of the Videogame Union](https://cdn.vox-cdn.com/uploads/chorus_asset/file/24262907/Polygon_The_Rise_of_the_Video_Game_Union.pdf) by Polygon
+From the NLRB (more [here](https://www.nlrb.gov/news-publications/publications/brochures)):
+
+* [Protecting Employee Rights](https://www.nlrb.gov/sites/default/files/attachments/pages/node-184/protecting-employee-rights-english_1.pdf)
+* [NLRB Flyer](https://www.nlrb.gov/sites/default/files/attachments/pages/node-184/nlrb-flyer-627.pdf)
+* [Employee Rights During a Union Organizing Campaign](https://www.nlrb.gov/sites/default/files/attachments/pages/node-184/employee-rights-while-organizing-627.pdf)
+* [Basic Steps to Forming a Union](https://www.nlrb.gov/sites/default/files/attachments/pages/node-184/steps-to-forming-a-union-final-412.pdf)
+
+Others:
+
+* [Thinking about quitting your job? Here are 5 things you can do first.](https://workerorganizing.org/wp-content/uploads/2022/10/thinking-quitting-job-one-sheet.pdf) by the EWOC
+* [Bargaining for the Common Good](https://www.bargainingforthecommongood.org/wp-content/uploads/2020/04/BCG-1-Pager-Why-BCG-v.2-22-20-1.pdf)
+* [Key Elements of bargaining for the Common Good Campaigns](https://www.bargainingforthecommongood.org/wp-content/uploads/2020/04/BCG-Seven-Elements.pdf)
+* [Just Cause - Using the Seven Tests](https://teamster.org/wp-content/uploads/2020/07/JustCause.pdf) by the Teamsters Union
+
+Longer print-outs:
+
+* [DMs Open: A Zine About Remote Organizing](https://collectiveaction.tech/2022/dms-open/) by Collective Actions In Tech (24 pages)
+* [Concrete Examples of Bargaining for the Common Good](https://www.bargainingforthecommongood.org/wp-content/uploads/2021/01/Bargaining-Demands-Memo-Long-12.2020.pdf) (18 pages)
+* [Bargaining for the Common Good Racial Justice Guide](https://www.nea.org/sites/default/files/2024-05/bargaining-for-the-common-good-racial-justice-guide_0.pdf) (46 pages)
+* [The Rise of the Videogame Union](https://cdn.vox-cdn.com/uploads/chorus_asset/file/24262907/Polygon_The_Rise_of_the_Video_Game_Union.pdf) by Polygon (56 pages)
+* [Secrets of a Successful Organizer: Training Guide](https://www.nea.org/sites/default/files/2020-11/Education%20Secrets%20Trainers%20Guide%20-%20June%2022.pdf) by the NEA (146 pages)
 
 ### Podcasts
 
@@ -52,8 +72,8 @@ If you'd like help creating a resource, would like to bring Turn the Tables to a
 ### Unions Organizing Tech Workers
 
 * [Communication Workers for America (CWA)](https://cwa-union.org/) ([C.O.D.E. Initiative](https://www.code-cwa.org/))
-* [United Steel Workers (USW)](https://www.usw.org/) ([Federation of Tech Workers program](https://www.federationoftechworkers.org/))
-* [Office and Professional Employees International Union (OPEIU)](https://www.opeiu.org/)
+* [Office and Professional Employees International Union (OPEIU)](https://www.opeiu.org/) ([Tech Workers Local Union 1010](https://www.techworkersunion-1010.org/))
+* ~[United Steel Workers (USW)](https://www.usw.org/) ([Federation of Tech Workers program](https://www.federationoftechworkers.org/))~ NOTE: USW no longer organizes tech workers
 
 ### Labor Organizing by Tech Users
 
@@ -98,3 +118,14 @@ If you'd like help creating a resource, would like to bring Turn the Tables to a
 * [Forced Arbitration Injustice Repeal Act](https://www.congress.gov/bill/116th-congress/house-bill/1423/text)
 * [Organizing of Amazon’s warehouse in Shakopee, Minnesota](https://www.wired.com/story/meet-the-immigrants-who-took-on-amazon/)
 * [Amazon workers push for union in Bessemer, Alabama](https://www.csmonitor.com/Business/2021/0212/Workers-organize-biggest-union-push-in-Amazon-s-history) 
+
+### Worker Activism Around Layoffs
+
+* [Layoff Guide](https://collectiveaction.tech/2022/a-layoff-guide-for-tweeps/) by Collective Actions In Tech
+* [Voluntary Layoffs](https://careerminds.com/blog/voluntary-layoffs)
+* [Alternatives to Layoffs](https://www.ueunion.org/stwd_layoffalternatives.html) by the UE Steward
+* [Status Quo Protections for Unions](https://newsguild.org/what-is-status-quo-and-how-can-it-protect-you-from-layoffs/) by the News Guild
+* [How newsroom unions intervene when members get laid off](https://digiday.com/media/how-newsroom-unions-intervene-when-members-get-laid-off/)
+* [HUCTW's Worker Security Program for Layoffs](https://huctw.org/our-services/work-security-program) (NOTE: this is the union profiled in the excellent book [We Can't Eat Prestige: The Women Who Organized Harvard](https://www.goodreads.com/book/show/41550.We_Can_t_Eat_Prestige))
+* [Code for America union agrees to new severance agreement after layoffs](https://statescoop.com/code-for-america-union-severance-layoffs/)
+* [Workers in the game industry turn to unions for protection from rampant layoffs](https://prismreports.org/2024/03/19/video-game-workers-unionize-protection-layoffs/)
