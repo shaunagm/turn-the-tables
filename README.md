@@ -1,5 +1,7 @@
 # Turn the Tables
 
+[a photo of the PyCon 2024 Turn the Tables booth, including organizing books and printouts](misc/pycon-2024-booth.jpg)
+
 ## Who We Are
 
 Turn the Tables is a new effort by workers in the tech industry to educate our fellow workers about their rights to organize and help empower them to do so.
@@ -21,11 +23,6 @@ If you'd like to add a resource, feel free to create a pull request or open up a
 If you'd like help creating a resource, would like to bring Turn the Tables to a specific tech conference or meetup, would like to partner with us, or otherwise want to get involved in the project, please email `shaunagm` @ `gmail` . `com`.
 
 ## Resources
-
-### Books
-
-* [You Deserve a Tech Union](https://abookapart.com/products/you-deserve-a-tech-union) by Ethan Marcotte
-* [Team Building: A Memoir about Family and the Fight for Workers' Rights](https://beltpublishing.com/products/team-building-inside-the-unionization-at-googles-pittsburgh-office) by Ben Gwin 
 
 ### Zines, Pamphlets, and other printable materials
 
@@ -50,6 +47,21 @@ Longer print-outs:
 * [Bargaining for the Common Good Racial Justice Guide](https://www.nea.org/sites/default/files/2024-05/bargaining-for-the-common-good-racial-justice-guide_0.pdf) (46 pages)
 * [The Rise of the Videogame Union](https://cdn.vox-cdn.com/uploads/chorus_asset/file/24262907/Polygon_The_Rise_of_the_Video_Game_Union.pdf) by Polygon (56 pages)
 * [Secrets of a Successful Organizer: Training Guide](https://www.nea.org/sites/default/files/2020-11/Education%20Secrets%20Trainers%20Guide%20-%20June%2022.pdf) by the NEA (146 pages)
+
+### Books
+
+#### Tech-Specific
+
+* [You Deserve a Tech Union](https://abookapart.com/products/you-deserve-a-tech-union) by Ethan Marcotte
+* [Team Building: A Memoir about Family and the Fight for Workers' Rights](https://beltpublishing.com/products/team-building-inside-the-unionization-at-googles-pittsburgh-office) by Ben Gwin 
+
+#### Not Tech-Specific
+
+* [There Is Power In a Union by Philip Dray](https://www.penguinrandomhouse.com/books/42830/there-is-power-in-a-union-by-philip-dray/) - long but gripping complete history of labor in the United States
+* [Red State Revolt by Eric Blanc](https://www.versobooks.com/products/912-red-state-revolt) - deep dive on the 2018 wave of wildcat teachers strike, fascinating and engaging
+* [No Shortcuts by Jane McAlevey](https://janemcalevey.com/book/no-shortcuts-organizing-for-power-in-the-new-gilded-age/) - urgent and compelling call to change in how we organize, a little inside baseball (probably shouldn't be your first union book)
+* [Strike for America by Micah Uetricht](https://www.penguinrandomhouse.com/books/234064/strike-for-america-by-micah-uetricht/) - the story of the transformation of the Chicago Teachers Union, also a little inside baseball, but again great
+* [Secrets of a Successful Organizer by Alexandra Bradbury, Mark Brenner, and Jane Slaughter](https://www.labornotes.org/secrets) - a classic
 
 ### Podcasts
 
