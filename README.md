@@ -1,6 +1,6 @@
 # Turn the Tables
 
-[a photo of the PyCon 2024 Turn the Tables booth, including organizing books and printouts](misc/pycon-2024-booth.jpg)
+![a photo of the PyCon 2024 Turn the Tables booth, including organizing books and printouts](misc/pycon-2024-booth.jpg)
 
 ## Who We Are
 
