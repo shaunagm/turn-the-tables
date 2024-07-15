@@ -50,7 +50,8 @@ Longer print-outs:
 
 Stickers:
 
-* [I like my hackers how I like my SQLi: IN A UNION;](resources/stickers/hacker_UNION_sticker/) <img src="https://github.com/LArkema/turn-the-tables/blob/main/resources/stickers/hacker_UNION_sticker/hacker_UNION.png" width="100" alt="A circular sticker with a blue background, a pink first in ASCII art, text around the top that reads 'I like my hackers how I like my SQLi', text in the middle that reads 'IN A UNION;' in stylized font, and a tinyurl link to the turn-the-tables repository around the bottom">
+* [I like my hackers how I like my SQLi: IN A UNION;](resources/stickers/hacker_UNION_sticker/) 
+<img src="https://github.com/LArkema/turn-the-tables/blob/main/resources/stickers/hacker_UNION_sticker/hacker_UNION.png" width="100" alt="A circular sticker with a blue background, a pink first in ASCII art, text around the top that reads 'I like my hackers how I like my SQLi', text in the middle that reads 'IN A UNION;' in stylized font, and a tinyurl link to the turn-the-tables repository around the bottom">
 
 ### Books
 
