@@ -18,7 +18,7 @@ This repository contains resources and links to resources for use by the Turn th
 
 ## How to Contribute
 
-If you'd like to add a resource, feel free to create a pull request or open up an issue with a link and we can add it for you. Resources should be added as links in this readme. If you need a place to host a resource, you can add it to this repository's resource folder and then link it.
+If you'd like to add a resource, feel free to create a pull request or open up an issue with a link and we can add it for you. Resources should be added as links in this readme. If you need a place to host a resource, you can add it to this repository's [resources folder](resources) and then link it.
 
 If you'd like help creating a resource, would like to bring Turn the Tables to a specific tech conference or meetup, would like to partner with us, or otherwise want to get involved in the project, please email `shaunagm` @ `gmail` . `com`.
 
@@ -47,6 +47,11 @@ Longer print-outs:
 * [Bargaining for the Common Good Racial Justice Guide](https://www.nea.org/sites/default/files/2024-05/bargaining-for-the-common-good-racial-justice-guide_0.pdf) (46 pages)
 * [The Rise of the Videogame Union](https://cdn.vox-cdn.com/uploads/chorus_asset/file/24262907/Polygon_The_Rise_of_the_Video_Game_Union.pdf) by Polygon (56 pages)
 * [Secrets of a Successful Organizer: Training Guide](https://www.nea.org/sites/default/files/2020-11/Education%20Secrets%20Trainers%20Guide%20-%20June%2022.pdf) by the NEA (146 pages)
+
+Stickers:
+
+* [I like my hackers how I like my SQLi: IN A UNION](resources/stickers/hacker_UNION_sticker/)
+![A circular sticker with a blue background, a pink first in ASCII art, text around the top that reads 'I like my hackers how I like my SQLi', text in the middle that reads 'IN A UNION;' in stylized font, and a tinyurl link to the turn-the-tables repository around the bottom](resources/stickers/hacker_UNION_sticker/hacker_UNION.png)
 
 ### Books
 
