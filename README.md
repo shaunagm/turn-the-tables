@@ -48,6 +48,10 @@ Longer print-outs:
 * [The Rise of the Videogame Union](https://cdn.vox-cdn.com/uploads/chorus_asset/file/24262907/Polygon_The_Rise_of_the_Video_Game_Union.pdf) by Polygon (56 pages)
 * [Secrets of a Successful Organizer: Training Guide](https://www.nea.org/sites/default/files/2020-11/Education%20Secrets%20Trainers%20Guide%20-%20June%2022.pdf) by the NEA (146 pages)
 
+Posters:
+
+* [You Don’t Have To Hate Your Job To Want A Union](https://justseeds.org/graphic/you-dont-have-to-hate-your-job-to-want-a-union/) by Sam Wallman
+
 Stickers:
 
 * [I like my hackers how I like my SQLi: IN A UNION;](resources/stickers/hacker_UNION_sticker/) 
